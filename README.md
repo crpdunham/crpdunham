@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @crpdunham
+- 👀 I’m interested in growing my protfolio of work
+- 🌱 I’m currently learning aws solutions architecture
+- 💞️ I’m looking to collaborate on architecture projects
+- 📫 How to reach me carolinerpdunham@gmail.com
